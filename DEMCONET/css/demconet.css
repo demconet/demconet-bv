@@ -1,0 +1,19 @@
+﻿p {
+	color: #10147E;
+}
+
+.DEMCONETBody {
+	background-color: #CCCCFF;
+	background-image: url('../../Pictures/DEMCONET/BackGround-NK.gif');
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+}
+
+.BrandsIMG {
+	border-width: 0px;
+}
+
+.BrandsTD {
+	text-align: center;
+}
